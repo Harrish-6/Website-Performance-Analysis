@@ -1,6 +1,8 @@
 # Website-Performance-Analysis
 This project analyzes website performance using Python for session trends, user engagement, channel effectiveness, and traffic forecasting with techniques like time series analysis and SARIMA modeling.
 
+**Dataset**: Website Performance: Case Study from STATSO
+
 **Overview**
 
 This project aims to provide a deep dive into the performance of a given website, leveraging Python's powerful data analysis and visualization capabilities. By examining various metrics related to user engagement, traffic patterns, and channel effectiveness, this analysis offers valuable insights for optimizing website performance and achieving business goals.
